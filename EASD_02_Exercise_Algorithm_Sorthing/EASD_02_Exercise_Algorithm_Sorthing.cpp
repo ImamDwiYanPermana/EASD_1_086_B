@@ -9,5 +9,6 @@
 // 3.Ukuran Input: Semakin besar ukuran input data yang harus diolah, semakin lama waktu yang dibutuhkan untuk menyelesaikan algoritma.
 //   Kompleksitas Algoritma : Algoritma dengan kompleksitas yang tinggi, seperti algoritma dengan nested loop, biasanya membutuhkan waktu yang lebih lama untuk dieksekusi dibandingkan algoritma dengan kompleksitas yang lebih rendah.
 //   Jenis Bahasa Pemrograman : Beberapa bahasa pemrograman lebih efisien dalam menangani tugas - tugas tertentu, sehingga dapat mengurangi waktu eksekusi program.
+// 4.algoritma QuickSort :  yang memecah data menjadi dua bagian dan mengurutkannya secara terpisah sebelum digabungkan kembali. Proses ini dilakukan dengan menggunakan pivot atau titik acuan untuk membagi data.
 
 
