@@ -12,4 +12,33 @@
 // 4.algoritma QuickSort :  yang memecah data menjadi dua bagian dan mengurutkannya secara terpisah sebelum digabungkan kembali. Proses ini dilakukan dengan menggunakan pivot atau titik acuan untuk membagi data.
 // 5.bubble sort, Selection Sort, Insertion Sort dan Merge Sort, Linear Search
 
+#include <iostream>
+using namespace std;
+
+int arr[20];            // Array of integers to hold values
+int n;
+
+void merge() {
+    while (true)
+    {
+        cout << "Masukkan panjang element array: ";
+        cin >> n;
+
+        if (n <= 20)
+            break;
+        else
+            cout << "\nMaksimum panjang array adalah 20" << endl;
+    }
+    cout << "\n-------------------" << endl;
+    cout << "\nEnter Array Element" << endl;
+    cout << "\n-------------------" << endl;
+
+    for (int i = 0; i < n; i++)
+    {
+        cout << "<" << (i + 20 / 2) << ">";
+        cin >> arr[i];
+    }
+}
+
+
 
