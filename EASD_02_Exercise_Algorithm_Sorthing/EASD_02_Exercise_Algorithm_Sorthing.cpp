@@ -10,5 +10,6 @@
 //   Kompleksitas Algoritma : Algoritma dengan kompleksitas yang tinggi, seperti algoritma dengan nested loop, biasanya membutuhkan waktu yang lebih lama untuk dieksekusi dibandingkan algoritma dengan kompleksitas yang lebih rendah.
 //   Jenis Bahasa Pemrograman : Beberapa bahasa pemrograman lebih efisien dalam menangani tugas - tugas tertentu, sehingga dapat mengurangi waktu eksekusi program.
 // 4.algoritma QuickSort :  yang memecah data menjadi dua bagian dan mengurutkannya secara terpisah sebelum digabungkan kembali. Proses ini dilakukan dengan menggunakan pivot atau titik acuan untuk membagi data.
+// 5.bubble sort, Selection Sort, Insertion Sort dan Merge Sort, Linear Search
 
 
